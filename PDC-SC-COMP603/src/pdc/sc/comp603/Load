@@ -1,4 +1,4 @@
-package assignment;
+package pdc.sc.comp603;
 
 import java.io.File;
 import java.io.FileNotFoundException;
