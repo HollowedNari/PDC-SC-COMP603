@@ -8,7 +8,7 @@ package pdc.sc.comp603;
  *
  * @author eh155
  */
-public class Student {
+public class Student extends QnALogIn{
     
     private String studentName;
     private String classCode;

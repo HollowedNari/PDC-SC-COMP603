@@ -11,6 +11,9 @@ import java.util.Scanner;
  * @author eh155
  */
 public class QnALogIn {
+    
+    private String username;
+    private String password;
        
     public static void main(String[] args) {
         String input = "";
@@ -35,7 +38,7 @@ public class QnALogIn {
         else 
         {
             System.out.println("Sorry incorrect input. Please try again.");
-            System.out.println("Teacher or Student Log in (T or S):");
+           // System.out.println("Teacher or Student Log in (T or S):");
         }  
     }  
 }
