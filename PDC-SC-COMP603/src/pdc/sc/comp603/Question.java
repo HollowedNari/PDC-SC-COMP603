@@ -8,7 +8,7 @@ package pdc.sc.comp603;
  *
  * @author eh155
  */
-public class Question {
+public class QuestionAndAnswer {
     
     private String question;
 
