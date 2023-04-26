@@ -12,15 +12,15 @@ public class QuestionAndAnswer {
     
     private String question;
 
-    public Question(String question) {
+    public QuestionAndAnswer(String question) {
         this.question = question;
     }
 
-    public String getQuestion() {
+    public String getQuestionAndAnswer() {
         return question;
     }
 
-    public void setQuestion(String question) {
+    public void setQuestionAndAnswer(String question) {
         this.question = question;
     }
     
